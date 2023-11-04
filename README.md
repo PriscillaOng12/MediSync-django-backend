@@ -68,7 +68,7 @@ Before running Medisync, ensure you have the following prerequisites:
 
 - Database: Choose a database system compatible with Django, such as PostgreSQL, MySQL, or SQLite.
 
-- Google Calendar API Credentials: To enable Google Calendar integration, you'll need to obtain API credentials from the Google Developer Console. Instructions: [https://developers.google.com/identity/sign-in/web/server-side-flow](url)
+- Google Calendar API Credentials: To enable Google Calendar integration, you'll need to obtain API credentials from the Google Developer Console. Instructions: [https://developers.google.com/identity/sign-in/web/server-side-flow]
 
 ### Installation
 
