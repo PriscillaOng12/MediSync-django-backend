@@ -145,7 +145,7 @@ Follow these steps to set up Medisync:
 
 ## Visit MediSync Website
 
-MediSync is officially deployed on Netlify, visit us at [https://64f96929d31918358edfbd16--lambent-conkies-37745c.netlify.app/](url). 
+MediSync is officially deployed on Netlify, visit us at [https://lambent-conkies-37745c.netlify.app/](url). 
 MediSync is still currently under Google OAuth API verification process and as we have yet to complete the verification, 
 MediSync has an OAuth user cap of 100 test users prior to verfication. 
 If you are interested to be added to the test users list to synchronize your Google Calendar with MediSync or login with your Google account, 
